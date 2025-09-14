@@ -2,7 +2,7 @@
 Desafio técnico para entrevistas de QA
 
 ## Objetivo
-Analisar o sistema disponível em: **(link do repositório ou aplicação)**
+Analisar o sistema disponível em: **[Sistema](https://homolog-convictus-cms.onrender.com)**
 
 O candidato deverá identificar e documentar:
 - **Erros críticos** (bugs que impedem o uso do sistema)
