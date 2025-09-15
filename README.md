@@ -19,7 +19,7 @@ Você pode utilizar quaisquer ferramentas que julgar necessárias (devtools, aut
 O uso de ferramentas **não é obrigatório** – testes manuais são totalmente aceitos.
 
 ## Tempo estimado
-- 30 minutos ⏱️ 
+- 1 dia ⏱️ 
 
 ## O que será avaliado
 - Capacidade de identificar erros críticos e não críticos
