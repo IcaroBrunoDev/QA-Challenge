@@ -26,3 +26,6 @@ O uso de ferramentas **não é obrigatório** – testes manuais são totalmente
 - Capacidade de sugerir melhorias relevantes
 - Clareza e organização da comunicação dos cenários de teste
 - Capacidade de propor melhorias de processo
+
+## Enviar resultado para
+desenvolvedor@agilys.com.br
